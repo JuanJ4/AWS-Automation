@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 Python Environment: Ensure Python is installed on your machine. This script is compatible with Python 3.x versions.
 
 AWS Credentials: The script uses boto3, the AWS SDK for Python. Your environment must be configured with AWS credentials (Access Key ID and Secret Access Key) that have permissions to manage CloudWatch alarms and access EC2 instances. Typically, you can configure credentials using the AWS CLI with aws configure command or by setting the AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, and optionally AWS_SESSION_TOKEN environment variables.
